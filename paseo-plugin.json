@@ -1,0 +1,8 @@
+{
+  "id": "bare-worktrees",
+  "name": "Bare Worktrees",
+  "description": "Create and attach git worktrees in folders you choose, one Paseo workspace per worktree. Works with bare-repository layouts.",
+  "requirements": {
+    "paseo": ">=0.11.2"
+  }
+}
