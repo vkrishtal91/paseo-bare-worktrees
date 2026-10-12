@@ -1,6 +1,8 @@
-# Bare Worktrees for Paseo
+<p align="center"><img src="assets/icon.png" alt="Bare Worktrees icon" width="160" height="160"></p>
 
-**[English](#english) · [Русский](#russian)**
+<h1 align="center">Bare Worktrees for Paseo</h1>
+
+<p align="center"><b><a href="#english">English</a> · <a href="#russian">Русский</a></b></p>
 
 ---
 
